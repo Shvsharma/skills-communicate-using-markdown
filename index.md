@@ -12,3 +12,8 @@ I have added 3 headers to this file.
 ``` javascript
 var myVar = "Hello, World!";
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Intoduce myself to the World 
